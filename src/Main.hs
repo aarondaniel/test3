@@ -7,4 +7,4 @@ main = do
     putStrLn "Welcome to FP Haskell Center!"
     putStrLn "Have a good day!"
 
---    example = let x = 2 in x+x
+--    example = let x = 2 in x+x change
